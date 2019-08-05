@@ -42,7 +42,7 @@ php artisan key:generate
 ```
 php artisan db:seed
 ```
-完成
+- 完成
 ```
 curl http://localhost:8080  
 ```
